@@ -1,0 +1,71 @@
+2025-02-17 14:50:21,263 - ERROR - Error fetching chat history: invalid dsn: missing "=" after ""postgresql://postgres:abdullahsql@localhost:5432/postgres"," in connection info string
+
+2025-02-17 14:50:21,263 - ERROR - Error occurred: ('Failed to fetch chat history.', ProgrammingError('invalid dsn: missing "=" after ""postgresql://postgres:abdullahsql@localhost:5432/postgres"," in connection info string\n'))
+2025-02-17 14:52:35,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 14:52:35,354 - INFO - Response generated successfully.
+2025-02-17 14:53:42,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 14:53:42,669 - INFO - Response generated successfully.
+2025-02-17 14:54:03,918 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 14:54:04,115 - INFO - Response generated successfully.
+2025-02-17 15:35:01,170 - ERROR - Error managing user and creating table: column "user_name" of relation "users" does not exist
+LINE 1: INSERT INTO users (user_id, user_name) VALUES ('1', 'abdulla...
+                                    ^
+
+2025-02-17 15:35:01,171 - ERROR - Error occurred: column "user_name" of relation "users" does not exist
+LINE 1: INSERT INTO users (user_id, user_name) VALUES ('1', 'abdulla...
+                                    ^
+
+2025-02-17 15:35:12,475 - ERROR - Error managing user and creating table: column "user_name" of relation "users" does not exist
+LINE 1: INSERT INTO users (user_id, user_name) VALUES ('1', 'abdulla...
+                                    ^
+
+2025-02-17 15:35:12,476 - ERROR - Error occurred: column "user_name" of relation "users" does not exist
+LINE 1: INSERT INTO users (user_id, user_name) VALUES ('1', 'abdulla...
+                                    ^
+
+2025-02-17 15:40:18,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:40:19,228 - INFO - Response generated successfully.
+2025-02-17 15:40:34,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:40:34,343 - INFO - Response generated successfully.
+2025-02-17 15:40:53,978 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:40:54,272 - INFO - Response generated successfully.
+2025-02-17 15:41:38,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:41:38,883 - INFO - Response generated successfully.
+2025-02-17 15:42:19,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:42:19,869 - INFO - Response generated successfully.
+2025-02-17 15:43:07,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:43:07,378 - INFO - Response generated successfully.
+2025-02-17 15:43:19,898 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:43:20,094 - INFO - Response generated successfully.
+2025-02-17 15:43:26,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:43:26,760 - INFO - Response generated successfully.
+2025-02-17 15:44:03,278 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:44:03,483 - INFO - Response generated successfully.
+2025-02-17 15:44:23,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:44:24,060 - INFO - Response generated successfully.
+2025-02-17 15:45:14,121 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:45:14,344 - INFO - Response generated successfully.
+2025-02-17 15:45:53,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:45:54,033 - INFO - Response generated successfully.
+2025-02-17 15:49:53,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:49:54,156 - INFO - Response generated successfully.
+2025-02-17 15:50:19,393 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:50:19,571 - INFO - Response generated successfully.
+2025-02-17 15:50:58,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 15:50:58,502 - INFO - Response generated successfully.
+2025-02-17 16:16:06,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 16:16:06,942 - INFO - Response generated successfully.
+2025-02-17 16:16:40,204 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 16:16:40,434 - INFO - Response generated successfully.
+2025-02-17 16:17:19,742 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 16:17:19,968 - INFO - Response generated successfully.
+2025-02-17 18:02:14,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 18:02:14,762 - INFO - Response generated successfully.
+2025-02-17 18:02:44,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 18:02:45,033 - INFO - Response generated successfully.
+2025-02-17 18:03:05,136 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 18:03:05,213 - INFO - Response generated successfully.
+2025-02-17 18:03:29,372 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 18:03:29,440 - INFO - Response generated successfully.
+2025-02-17 18:03:51,658 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 18:03:51,735 - INFO - Response generated successfully.
